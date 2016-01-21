@@ -1,0 +1,18 @@
+D:\Google drive\csgo-stats\Source\CSGO-Corsair\bin\Release\CSGO-Corsair.exe.config
+D:\Google drive\csgo-stats\Source\CSGO-Corsair\obj\Release\CSGO-Corsair.exe
+D:\Google drive\csgo-stats\Source\CSGO-Corsair\obj\Release\CSGO-Corsair.pdb
+D:\Google drive\csgo-stats\Source\CSGO-Corsair\bin\Release\CSGO-Corsair.exe
+D:\Google drive\csgo-stats\Source\CSGO-Corsair\bin\Release\CSGO-Corsair.pdb
+D:\Google drive\csgo-stats\Source\CSGO-Corsair\bin\Release\CUE.NET.dll
+D:\Google drive\csgo-stats\Source\CSGO-Corsair\bin\Release\Newtonsoft.Json.dll
+D:\Google drive\csgo-stats\Source\CSGO-Corsair\bin\Release\Newtonsoft.Json.xml
+D:\Google drive\csgo-stats\Source\CSGO-Corsair\obj\Release\CSGO-Keyboard Effects.csprojResolveAssemblyReference.cache
+C:\Users\User\Google Drive\csgo-stats\Source\CSGO-Corsair\bin\Release\CSGO-Corsair.exe.config
+C:\Users\User\Google Drive\csgo-stats\Source\CSGO-Corsair\obj\Release\CSGO-Corsair.exe
+C:\Users\User\Google Drive\csgo-stats\Source\CSGO-Corsair\obj\Release\CSGO-Corsair.pdb
+C:\Users\User\Google Drive\csgo-stats\Source\CSGO-Corsair\bin\Release\CSGO-Corsair.exe
+C:\Users\User\Google Drive\csgo-stats\Source\CSGO-Corsair\bin\Release\CSGO-Corsair.pdb
+C:\Users\User\Google Drive\csgo-stats\Source\CSGO-Corsair\bin\Release\CUE.NET.dll
+C:\Users\User\Google Drive\csgo-stats\Source\CSGO-Corsair\bin\Release\Newtonsoft.Json.dll
+C:\Users\User\Google Drive\csgo-stats\Source\CSGO-Corsair\bin\Release\Newtonsoft.Json.xml
+C:\Users\User\Google Drive\csgo-stats\Source\CSGO-Corsair\obj\Release\CSGO-Keyboard Effects.csprojResolveAssemblyReference.cache
