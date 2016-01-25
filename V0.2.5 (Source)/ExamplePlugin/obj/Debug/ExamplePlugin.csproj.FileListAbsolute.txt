@@ -1,0 +1,8 @@
+C:\Users\User\Google Drive\csgo-stats\Source\ExamplePlugin\bin\Debug\ExamplePlugin.dll
+C:\Users\User\Google Drive\csgo-stats\Source\ExamplePlugin\bin\Debug\ExamplePlugin.pdb
+C:\Users\User\Google Drive\csgo-stats\Source\ExamplePlugin\bin\Debug\CSGO-Corsair.exe
+C:\Users\User\Google Drive\csgo-stats\Source\ExamplePlugin\bin\Debug\CUE.NET.dll
+C:\Users\User\Google Drive\csgo-stats\Source\ExamplePlugin\bin\Debug\CSGO-Corsair.pdb
+C:\Users\User\Google Drive\csgo-stats\Source\ExamplePlugin\obj\Debug\ExamplePlugin.csprojResolveAssemblyReference.cache
+C:\Users\User\Google Drive\csgo-stats\Source\ExamplePlugin\obj\Debug\ExamplePlugin.dll
+C:\Users\User\Google Drive\csgo-stats\Source\ExamplePlugin\obj\Debug\ExamplePlugin.pdb
