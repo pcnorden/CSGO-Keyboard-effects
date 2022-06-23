@@ -1,3 +1,15 @@
+# WARNING!!!
+
+This project was a thing I did while I was learning C#. I cannot recommend enough **NOT** to use this software as it's plagued with bad coding and probably bad comments and more. All dependencies are also extremely outdated and this program will probably not work with current versions of iCue.
+
+The library that decodes the JSON data that CS:GO sends to the server also has a vulnerability in it that can cause a DOS attack (DOS=Denial-Of-Service, not DDOS! [Cloudflare](https://www.cloudflare.com/learning/ddos/glossary/denial-of-service/) has a good writeup on DOS attacks incase you would like to learn more) against you easily.
+
+More information about the vulnerability exists here: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
+
+You also need to run this program as administrator, which is a **HORRIBLE** idea for a problem that I could have easily solved in code by not using port 80 to respond to web requests!
+
+I will archive this repositor after this README.md file has been modified to add this warning as a way for people to see how to do similar things, but I very explicity would like you to **NOT DOWNLOAD OR RUN THIS SOFTWARE**. It's atrocious both in security and being up-to-date!
+
 # CSGO Keyboard Effects
 
 This is a software to display ammunition and health on the keyboard from the popular game "Counter-Strike : Global Offensive".
